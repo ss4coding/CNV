@@ -6,6 +6,7 @@ PRIOR TO RUNNING YOUR CODE
     - token_path, manifest_path, sample_sheet_path
         - Realize that sample_sheet should be a csv
         - FYI, ./ indicates the directory you are running the code from. Hence bullet #1's instructions.
+    - For CPTAC data sets, note that "CyberDuck ID" was used instead of "Sample ID" in this file.
 3. In gdcslice_for_multiple_files.sh, you will need to adjust the array size per the instructions there
 4. Run with python run_multiple_files.py (requires module load apps/python/3.6.2)
 
